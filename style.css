@@ -13,7 +13,7 @@ h3{
     font-size: 45px !important;
     margin-left: 30px;
 }
-p{  color: white;
+p{  color: #1a759f;
     font-size: 30px !important;
     text-align:justify !important;
     margin-left:10px;
@@ -23,6 +23,7 @@ p{  color: white;
 #links{
     font-size: 20px !important;
     margin-left: 20px;
+    align-content: center;
 }
 figure {
     border: thin rgb(79, 212, 190) solid !important;
@@ -53,7 +54,8 @@ nav {
     width: 100%;
 }
 #container{
-    background-color: rgb(226, 106, 69);
+    /* background-color: rgb(226, 106, 69); */
+    background-color: #d9ed92;
 }
 .row{
     align-content: center;
@@ -76,5 +78,5 @@ nav {
     margin: 1px;
 }
 .imgport:hover, figure:hover{
-    background-color:rgb(252, 214, 46) ; 
+    background-color: #99d98c; ; 
 }
