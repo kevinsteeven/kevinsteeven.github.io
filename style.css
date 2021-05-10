@@ -77,7 +77,9 @@ nav {
     max-width: 100%;
     margin: 1px;
 }
-.imgport:hover, figure:hover{
+.imgport:hover, figure,#btn_enviar :hover{
     background-color: #99d98c; ; 
 }
-
+form{
+    width: 300px;
+}
